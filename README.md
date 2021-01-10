@@ -1,7 +1,15 @@
 ### Hi there, I'm Vinayak Sankar 👋
-
+                                                                                                      [![Twitter][1.2]][1]  [![LinkedIn][3.2]][3]
 <!--
 **vnksnkr/vnksnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+
+[1]: https://twitter.com/VinayakSankar17
+[2]: www.linkedin.com/in/vinayak-sankar-795b79194
 
 Here are some ideas to get you started:
 
