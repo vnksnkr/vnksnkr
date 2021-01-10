@@ -6,7 +6,7 @@
 
 
 [1]: https://twitter.com/VinayakSankar17
-[2]: www.linkedin.com/in/vinayak-sankar-795b79194
+[2]: https://www.linkedin.com/in/vinayak-sankar-795b79194/
 
 <!---
 Here are some ideas to get you started:
