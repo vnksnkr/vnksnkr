@@ -1,5 +1,5 @@
 ### Hi there, I'm Vinayak Sankar 👋
-                                                                                                      [![Twitter][1.2]][1]  [![LinkedIn][3.2]][3]
+                                                                                                      [![1.2]][1]  [![2.2]][2]
 <!--
 **vnksnkr/vnksnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
