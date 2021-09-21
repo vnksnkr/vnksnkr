@@ -7,6 +7,9 @@
 
 [1]: https://twitter.com/VinayakSankar17
 [2]: https://www.linkedin.com/in/vinayak-sankar-795b79194/
+<span>
+  <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=vnksnkr.vnksnkr"/>
+</span>
 
 <!---
 Here are some ideas to get you started:
